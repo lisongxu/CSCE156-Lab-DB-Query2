@@ -1,5 +1,5 @@
 # Computer Science II
-## Lab 7.0 - MySQL 
+## Lab 8.0 - MySQL 
 
 An introduction to MySQL used in databases.
 
@@ -27,7 +27,7 @@ at the [University of Nebraska-Lincoln](https://www.unl.edu).
 
 Following the lab, you should be able to:
 
--   perform basic database query operations
+-   perform advanced database query operations
   
 -   understand complex queries using aggregate functions and group by clauses
 
@@ -51,7 +51,7 @@ Please connect to the same MySQL server running on `cse-linux-01.unl.edu` of Sch
 
 ## 2. Activities 
 
-1. Download the provided MySQL file [`albumsDB.sql`](albumsDB.sql), which creates multiple tables about music albums, songs, and the artists involved. Below is the entity-relation diagram of these tables. 
+1. Download the provided MySQL file [`albumsDB2.sql`](albumsDB2.sql), which creates multiple tables about music albums, songs, and the artists involved. Note that this file is *different* from the one in the previous lab. Below is the entity-relation diagram of these tables. 
 
 <p align="center">
 <img src="images/album-er.png" alt="ER Diagram" width="90%"/>
