@@ -23,6 +23,9 @@ at the [University of Nebraska-Lincoln](https://www.unl.edu).
 -   MySQL Group By Clause  
         <https://dev.mysql.com/doc/refman/8.0/en/group-by-modifiers.html>
 
+-   MySQL Join Clause  
+        <https://dev.mysql.com/doc/refman/8.0/en/join.html>
+
 ### Lab Objectives & Topics
 
 Following the lab, you should be able to:
