@@ -1,5 +1,5 @@
 # Computer Science II
-## Lab 8.0 - MySQL 
+## Lab 8.0 - Advanced MySQL 
 
 An introduction to MySQL used in databases.
 
@@ -30,7 +30,7 @@ at the [University of Nebraska-Lincoln](https://www.unl.edu).
 
 Following the lab, you should be able to:
 
--   perform advanced database query operations
+-   perform advanced database query operations on multiple tables
   
 -   understand complex queries using aggregate functions and group by clauses
 
@@ -64,7 +64,7 @@ Please connect to the same MySQL server running on `cse-linux-01.unl.edu` of Sch
 
 3. Execute the modified MySQL code, which takes some time to create all the tables and insert all the data.
 
-4. Please write select statements to find the information asked in the lab questions on Canvas.
+4. Please write join select statements to find the information asked in the lab questions on Canvas.
 
 ## 3. Answer the lab questions on Canvas
 
