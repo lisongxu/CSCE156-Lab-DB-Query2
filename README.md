@@ -1,5 +1,5 @@
 # Computer Science II
-## Lab 8.0 - Advanced MySQL 
+## Lab 9.0 - Advanced MySQL 
 
 An introduction to MySQL used in databases.
 
