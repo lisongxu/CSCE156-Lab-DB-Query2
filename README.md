@@ -52,9 +52,9 @@ Please connect to the same MySQL server running on `nuros.unl.edu` of the School
 
 1. Download the provided MySQL file [`albumsDB2.sql`](albumsDB2.sql), which creates multiple tables about music albums, songs, and the artists involved.
 
-***Note that this file is *different*  from the one in the previous lab.***
+   ***Note that this file is *different*  from the one in the previous lab.***
 
-Below is the entity-relation diagram of these tables. 
+   Below is the entity-relation diagram of these tables. 
 
 <p align="center">
 <img src="images/album-er.png" alt="ER Diagram" width="90%"/>
