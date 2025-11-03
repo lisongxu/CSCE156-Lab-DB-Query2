@@ -3,7 +3,7 @@
 
 An introduction to MySQL used in databases.
 
-This is a lab used in Computer Science II (CSCE 156) for Fall 2024 
+This is a lab used in Computer Science II (CSCE 156) for Fall 2025 
 in the [School of Computing](https://computing.unl.edu) 
 at the [University of Nebraska-Lincoln](https://www.unl.edu).
 
@@ -39,12 +39,12 @@ Note that the lab may involve some concepts or statements not covered (yet) in t
 
 ### Peer Programming Pair-Up
 
-At the start of each lab, you may find a team member by yourself or be randomly paired up with another student by a lab instructor.  One of you will be designated the *driver* and the other the *navigator*. Each week you should try to alternate: if you were a driver last week, be a navigator next, etc. If you prefer to work on this lab by yourself, that is fine too.
+At the start of each lab, you may find a team member by yourself.  One of you will be designated the *driver* and the other the *navigator*. Each week, you should try to alternate: if you were a driver last week, be a navigator next, etc. If you prefer to work on this lab alone, that is fine too.
 
 ***Note that each student must answer the lab questions on Canvas for grading.***
 
   
-## 1. Connect to MySQL server on Linux server
+## 1. Connect to the MySQL server on the Linux server
 
 Please connect to the same MySQL server running on `nuros.unl.edu` of the School of Computing.
 
@@ -68,4 +68,4 @@ Please connect to the same MySQL server running on `nuros.unl.edu` of the School
 
 ## 3. Answer the lab questions on Canvas
 
-* You do not need to submit any MySQL code or any MySQL statements for this lab. Instead please answer the lab questions on Canvas. 
+* You do not need to submit any MySQL code or any MySQL statements for this lab. Instead, please answer the lab questions on Canvas. 
