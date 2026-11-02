@@ -896,7 +896,7 @@ insert into AlbumSong (trackNumber, trackLength, albumId, songId) values (5, 196
 insert into AlbumSong (trackNumber, trackLength, albumId, songId) values (4, 196, (select a.albumId from Album a where a.albumTitle = 'Liberman'), 10234);
 insert into AlbumSong (trackNumber, trackLength, albumId, songId) values (3, 223, (select a.albumId from Album a where a.albumTitle = 'Liberman'), 10233);
 insert into AlbumSong (trackNumber, trackLength, albumId, songId) values (2, 173, (select a.albumId from Album a where a.albumTitle = 'Liberman'), 10232);
-insert into AlbumSong (trackNumber, trackLength, albumId, songId) values (10, 157, (select a.albumId from Album a where a.albumTitle = 'Liberman'), 10240);
+insert into AlbumSong (trackNumber, trackLength, albumId, songId) values (10, 157, (select a.albumId from Album a where a.albumTitle = 'Liberman'), 10251);
 insert into AlbumSong (trackNumber, trackLength, albumId, songId) values (1, 332, (select a.albumId from Album a where a.albumTitle = 'Liberman'), 10231);
 
 
@@ -1245,16 +1245,16 @@ insert into AlbumSong (trackNumber,trackLength,albumId,songId) values (15, 244, 
 
 insert into Musician (musicianId,firstName,lastName,country) values (803, 'Neil', 'Peart', 'CA');
 insert into Musician (musicianId,firstName,lastName,country) values (804, 'Geddy', 'Lee', 'CA');
-insert into Musician (musicianId,firstName,lastName,country) values (805, 'Alex ', 'Lifeson', 'CA');
+insert into Musician (musicianId,firstName,lastName,country) values (805, 'Alex', 'Lifeson', 'CA');
 insert into Musician (musicianId,firstName,lastName,country) values (806, 'Micheal', 'Jackson', 'USA');
 insert into Musician (musicianId,firstName,lastName,country) values (807, 'Randy', 'Jackson', 'USA');
-insert into Musician (musicianId,firstName,lastName,country) values (808, 'Jermaine', 'Jackson ', 'USA');
-insert into Musician (musicianId,firstName,lastName,country) values (809, 'Damon ', 'Albarn', 'UK');
-insert into Musician (musicianId,firstName,lastName,country) values (810, 'Graham  ', 'Coxon', 'UK');
-insert into Musician (musicianId,firstName,lastName,country) values (811, 'Alex ', 'James', 'UK');
-insert into Musician (musicianId,firstName,lastName,country) values (812, 'Adam ', 'Levine', 'USA');
-insert into Musician (musicianId,firstName,lastName,country) values (813, 'James  ', 'Valentine', 'USA');
-insert into Musician (musicianId,firstName,lastName,country) values (814, 'Jesse ', 'Carmichael', 'USA');
+insert into Musician (musicianId,firstName,lastName,country) values (808, 'Jermaine', 'Jackson', 'USA');
+insert into Musician (musicianId,firstName,lastName,country) values (809, 'Damon', 'Albarn', 'UK');
+insert into Musician (musicianId,firstName,lastName,country) values (810, 'Graham', 'Coxon', 'UK');
+insert into Musician (musicianId,firstName,lastName,country) values (811, 'Alex', 'James', 'UK');
+insert into Musician (musicianId,firstName,lastName,country) values (812, 'Adam', 'Levine', 'USA');
+insert into Musician (musicianId,firstName,lastName,country) values (813, 'James', 'Valentine', 'USA');
+insert into Musician (musicianId,firstName,lastName,country) values (814, 'Jesse', 'Carmichael', 'USA');
 
 
 insert into Band (bandId,name) values (51,'Rush');
@@ -1313,7 +1313,7 @@ insert into Song (songId, songTitle) values (523, 'Third Album: Reach In');
 insert into Song (songId, songTitle) values (524, 'Third Album: The Love I Saw in You Was Just a Mirage');
 insert into Song (songId, songTitle) values (525, 'Third Album: Darling Dear');
 insert into Song (songId, songTitle) values (526, 'Maybe Tomorrow: Maybe Tomorrow');
-insert into Song (songId, songTitle) values (527, 'Maybe Tomorrow: She\'s Good ');
+insert into Song (songId, songTitle) values (527, 'Maybe Tomorrow: She\'s Good');
 insert into Song (songId, songTitle) values (528, 'Maybe Tomorrow: Never Can Say Goodbye');
 insert into Song (songId, songTitle) values (529, 'Maybe Tomorrow: The Wall');
 insert into Song (songId, songTitle) values (530, 'Maybe Tomorrow: Petals');
@@ -1514,11 +1514,11 @@ insert into Song (songId, songTitle) values (185, 'Without You');
 insert into Song (songId, songTitle) values (186, 'Home');
 insert into Song (songId, songTitle) values (187, 'Keep Her Close');
 
-insert into AlbumSong (trackNumber,trackLength,albumId,songId) values (1,  252, 152, 183);
-insert into AlbumSong (trackNumber,trackLength,albumId,songId) values (2,  316, 152, 184);
-insert into AlbumSong (trackNumber,trackLength,albumId,songId) values (3,  304, 152, 185);
-insert into AlbumSong (trackNumber,trackLength,albumId,songId) values (4,  228, 152, 186);
-insert into AlbumSong (trackNumber,trackLength,albumId,songId) values (5,  334, 152, 187);
+insert into AlbumSong (trackNumber,trackLength,albumId,songId) values (1,  252, 153, 183);
+insert into AlbumSong (trackNumber,trackLength,albumId,songId) values (2,  316, 153, 184);
+insert into AlbumSong (trackNumber,trackLength,albumId,songId) values (3,  304, 153, 185);
+insert into AlbumSong (trackNumber,trackLength,albumId,songId) values (4,  228, 153, 186);
+insert into AlbumSong (trackNumber,trackLength,albumId,songId) values (5,  334, 153, 187);
 
 ### ODESZA - In Return
 
