@@ -54,7 +54,7 @@ Please connect to the same MySQL server running on `nuros.unl.edu` of the School
 
    ***Note that this file is *different*  from the one in the previous lab.***
 
-   Below is the entity-relation diagram of these tables. 
+   Below is the entity-relationship diagram of these tables. 
 
 <p align="center">
 <img src="images/album-er.png" alt="ER Diagram" width="90%"/>
